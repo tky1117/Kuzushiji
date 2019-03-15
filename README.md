@@ -20,4 +20,4 @@ python Kuzushiji-49.pyで実行
 
 ## データセットについて
 『KMNISTデータセット』（CODH作成） 『日本古典籍くずし字データセット』（国文研ほか所蔵）を翻案 doi:10.20676/00000341<br>
-提供元：[人文学データセンター](http://codh.rois.ac.jp/){:target="_blank"}
+提供元：[人文学データセンター](http://codh.rois.ac.jp/)
