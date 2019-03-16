@@ -44,7 +44,6 @@ class CNN:
         self.model.summary()
     
     def train(self, epochs, save_path, model_name):
-        
         train_X_file = np.load(os.path.join(main_path, 'k49-train-imgs.npz'))
         train_rotate_X_file = np.load(os.path.join(main_path, 'k49-train_rotate-imgs.npz'))
         train_Y_file = np.load(os.path.join(main_path, 'k49-train-labels.npz'))
