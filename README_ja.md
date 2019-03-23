@@ -3,7 +3,7 @@
 # 1. Kuzushiji-49
 
 49種類の崩し字を識別。</br>
--> [Kerasで機械学習〜くずし字の識別〜](https://qiita.com/tky1117/items/12315eda7c6795680c32)
+-> [Kerasで機械学習〜くずし字の識別〜](https://qiita.com/tky1117/items/12315eda7c6795680c32)</br>
 ディレクトリの構造は以下のようになっているものとする。
 
 - Kuzushiji-49_train.py
